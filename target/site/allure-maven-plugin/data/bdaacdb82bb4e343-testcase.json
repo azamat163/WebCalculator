@@ -1,0 +1,62 @@
+{
+  "uid" : "bdaacdb82bb4e343",
+  "name" : "testDiv3",
+  "title" : "Test div 3",
+  "time" : {
+    "start" : 1468400031678,
+    "stop" : 1468400031837,
+    "duration" : 159
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "54bc0ad3a04fc4bd",
+    "name" : "ru.kaspersky.WebCalculatorTest",
+    "title" : "Web calculator test"
+  },
+  "steps" : [ {
+    "name" : "testDiv3",
+    "title" : "Деление. Случай, когда числитель больше знаменателя",
+    "time" : {
+      "start" : 1468400031681,
+      "stop" : 1468400031837,
+      "duration" : 156
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "thread",
+    "value" : "71171@iMac-Azamat.local.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "ru.kaspersky.WebCalculatorTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "host",
+    "value" : "iMac-Azamat.local"
+  } ],
+  "parameters" : [ ]
+}

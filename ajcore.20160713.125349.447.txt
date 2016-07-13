@@ -1,0 +1,113 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.8.4 built on Thursday Nov 6, 2014 at 20:19:21 GMT
+---- Dump Properties ---
+Dump file: ajcore.20160713.125349.447.txt
+Dump reason: abort
+Dump on exception: true
+Dump at exit condition: abort
+---- System Properties ---
+java.runtime.name=Java(TM) SE Runtime Environment
+sun.boot.library.path=/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib
+java.vm.version=23.25-b01
+gopherProxySet=false
+java.vm.vendor=Oracle Corporation
+java.vendor.url=http://java.oracle.com/
+path.separator=:
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+file.encoding.pkg=sun.io
+user.country=RU
+sun.java.launcher=SUN_STANDARD
+sun.os.patch.level=unknown
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=/Users/azamat/WebCalculator
+java.runtime.version=1.7.0_25-b15
+basedir=/Users/azamat/WebCalculator
+java.awt.graphicsenv=sun.awt.CGraphicsEnvironment
+java.endorsed.dirs=/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/endorsed
+os.arch=x86_64
+surefire.real.class.path=/Users/azamat/WebCalculator/target/surefire/surefirebooter7986020038575323678.jar:/Users/azamat/.m2/repository/org/aspectj/aspectjweaver/1.8.4/aspectjweaver-1.8.4.jar
+java.io.tmpdir=/var/folders/n1/ynss1__x46g_gpnhfdt5fsh80000gn/T/
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+os.name=Mac OS X
+sun.jnu.encoding=UTF-8
+java.library.path=/Users/azamat/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+surefire.test.class.path=/Users/azamat/WebCalculator/target/test-classes:/Users/azamat/WebCalculator/target/classes:/Users/azamat/.m2/repository/com/jayway/restassured/rest-assured/2.1.0/rest-assured-2.1.0.jar:/Users/azamat/.m2/repository/org/codehaus/groovy/groovy/2.2.0/groovy-2.2.0.jar:/Users/azamat/.m2/repository/org/ow2/asm/asm-tree/4.1/asm-tree-4.1.jar:/Users/azamat/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar:/Users/azamat/.m2/repository/org/ow2/asm/asm-util/4.1/asm-util-4.1.jar:/Users/azamat/.m2/repository/org/ow2/asm/asm-commons/4.1/asm-commons-4.1.jar:/Users/azamat/.m2/repository/org/ow2/asm/asm/4.1/asm-4.1.jar:/Users/azamat/.m2/repository/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1.jar:/Users/azamat/.m2/repository/org/codehaus/groovy/groovy-xml/2.2.0/groovy-xml-2.2.0.jar:/Users/azamat/.m2/repository/org/apache/httpcomponents/httpclient/4.2.6/httpclient-4.2.6.jar:/Users/azamat/.m2/repository/org/apache/httpcomponents/httpcore/4.2.5/httpcore-4.2.5.jar:/Users/azamat/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/azamat/.m2/repository/commons-codec/commons-codec/1.6/commons-codec-1.6.jar:/Users/azamat/.m2/repository/org/apache/httpcomponents/httpmime/4.2.6/httpmime-4.2.6.jar:/Users/azamat/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/azamat/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar:/Users/azamat/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/azamat/.m2/repository/com/jayway/restassured/json-path/2.1.0/json-path-2.1.0.jar:/Users/azamat/.m2/repository/org/codehaus/groovy/groovy-json/2.2.0/groovy-json-2.2.0.jar:/Users/azamat/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.3.0/jackson-databind-2.3.0.jar:/Users/azamat/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar:/Users/azamat/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.3.0/jackson-core-2.3.0.jar:/Users/azamat/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.jar:/Users/azamat/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.jar:/Users/azamat/.m2/repository/com/google/code/gson/gson/1.7.2/gson-1.7.2.jar:/Users/azamat/.m2/repository/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar:/Users/azamat/.m2/repository/com/jayway/restassured/rest-assured-common/2.1.0/rest-assured-common-2.1.0.jar:/Users/azamat/.m2/repository/com/jayway/restassured/xml-path/2.1.0/xml-path-2.1.0.jar:/Users/azamat/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar:/Users/azamat/.m2/repository/org/json/json/20160212/json-20160212.jar:/Users/azamat/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-junit-adaptor/1.4.23/allure-junit-adaptor-1.4.23.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-java-aspects/1.4.23/allure-java-aspects-1.4.23.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-java-adaptor-api/1.4.23/allure-java-adaptor-api-1.4.23.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-java-annotations/1.4.23/allure-java-annotations-1.4.23.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-model/1.4.23/allure-model-1.4.23.jar:/Users/azamat/.m2/repository/org/jvnet/jaxb2_commons/jaxb2-basics-runtime/0.9.3/jaxb2-basics-runtime-0.9.3.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/properties/properties-loader/1.5/properties-loader-1.5.jar:/Users/azamat/.m2/repository/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.jar:/Users/azamat/.m2/repository/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar:/Users/azamat/.m2/repository/org/apache/tika/tika-core/1.7/tika-core-1.7.jar:/Users/azamat/.m2/repository/org/aspectj/aspectjrt/1.8.3/aspectjrt-1.8.3.jar:
+java.specification.name=Java Platform API Specification
+java.class.version=51.0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+os.version=10.10.5
+http.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+user.home=/Users/azamat
+user.timezone=Europe/Samara
+java.awt.printerjob=sun.lwawt.macosx.CPrinterJob
+file.encoding=UTF-8
+java.specification.version=1.7
+java.class.path=/Users/azamat/WebCalculator/target/test-classes:/Users/azamat/WebCalculator/target/classes:/Users/azamat/.m2/repository/com/jayway/restassured/rest-assured/2.1.0/rest-assured-2.1.0.jar:/Users/azamat/.m2/repository/org/codehaus/groovy/groovy/2.2.0/groovy-2.2.0.jar:/Users/azamat/.m2/repository/org/ow2/asm/asm-tree/4.1/asm-tree-4.1.jar:/Users/azamat/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar:/Users/azamat/.m2/repository/org/ow2/asm/asm-util/4.1/asm-util-4.1.jar:/Users/azamat/.m2/repository/org/ow2/asm/asm-commons/4.1/asm-commons-4.1.jar:/Users/azamat/.m2/repository/org/ow2/asm/asm/4.1/asm-4.1.jar:/Users/azamat/.m2/repository/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1.jar:/Users/azamat/.m2/repository/org/codehaus/groovy/groovy-xml/2.2.0/groovy-xml-2.2.0.jar:/Users/azamat/.m2/repository/org/apache/httpcomponents/httpclient/4.2.6/httpclient-4.2.6.jar:/Users/azamat/.m2/repository/org/apache/httpcomponents/httpcore/4.2.5/httpcore-4.2.5.jar:/Users/azamat/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/azamat/.m2/repository/commons-codec/commons-codec/1.6/commons-codec-1.6.jar:/Users/azamat/.m2/repository/org/apache/httpcomponents/httpmime/4.2.6/httpmime-4.2.6.jar:/Users/azamat/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/azamat/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar:/Users/azamat/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/azamat/.m2/repository/com/jayway/restassured/json-path/2.1.0/json-path-2.1.0.jar:/Users/azamat/.m2/repository/org/codehaus/groovy/groovy-json/2.2.0/groovy-json-2.2.0.jar:/Users/azamat/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.3.0/jackson-databind-2.3.0.jar:/Users/azamat/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar:/Users/azamat/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.3.0/jackson-core-2.3.0.jar:/Users/azamat/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.jar:/Users/azamat/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.jar:/Users/azamat/.m2/repository/com/google/code/gson/gson/1.7.2/gson-1.7.2.jar:/Users/azamat/.m2/repository/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar:/Users/azamat/.m2/repository/com/jayway/restassured/rest-assured-common/2.1.0/rest-assured-common-2.1.0.jar:/Users/azamat/.m2/repository/com/jayway/restassured/xml-path/2.1.0/xml-path-2.1.0.jar:/Users/azamat/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar:/Users/azamat/.m2/repository/org/json/json/20160212/json-20160212.jar:/Users/azamat/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-junit-adaptor/1.4.23/allure-junit-adaptor-1.4.23.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-java-aspects/1.4.23/allure-java-aspects-1.4.23.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-java-adaptor-api/1.4.23/allure-java-adaptor-api-1.4.23.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-java-annotations/1.4.23/allure-java-annotations-1.4.23.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-model/1.4.23/allure-model-1.4.23.jar:/Users/azamat/.m2/repository/org/jvnet/jaxb2_commons/jaxb2-basics-runtime/0.9.3/jaxb2-basics-runtime-0.9.3.jar:/Users/azamat/.m2/repository/ru/yandex/qatools/properties/properties-loader/1.5/properties-loader-1.5.jar:/Users/azamat/.m2/repository/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.jar:/Users/azamat/.m2/repository/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar:/Users/azamat/.m2/repository/org/apache/tika/tika-core/1.7/tika-core-1.7.jar:/Users/azamat/.m2/repository/org/aspectj/aspectjrt/1.8.3/aspectjrt-1.8.3.jar:
+user.name=azamat
+java.vm.specification.version=1.7
+sun.java.command=/Users/azamat/WebCalculator/target/surefire/surefirebooter7986020038575323678.jar /Users/azamat/WebCalculator/target/surefire/surefire2254263861352674808tmp /Users/azamat/WebCalculator/target/surefire/surefire_03102364742559208710tmp
+java.home=/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre
+sun.arch.data.model=64
+user.language=ru
+java.specification.vendor=Oracle Corporation
+awt.toolkit=sun.lwawt.macosx.LWCToolkit
+java.vm.info=mixed mode
+java.version=1.7.0_25
+java.ext.dirs=/Users/azamat/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+sun.boot.class.path=/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/classes
+java.vendor=Oracle Corporation
+localRepository=/Users/azamat/.m2/repository
+file.separator=/
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+sun.io.unicode.encoding=UnicodeBig
+sun.cpu.endian=little
+socksNonProxyHosts=local|*.local|169.254/16|*.169.254/16
+ftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+sun.cpu.isalist=
+---- Command Line ---
+Empty
+---- Full Classpath ---
+Empty
+---- Compiler Messages ---
+info AspectJ Weaver Version 1.8.4 built on Thursday Nov 6, 2014 at 20:19:21 GMT
+info register classloader sun.misc.Launcher$AppClassLoader@1e1ff563
+info using configuration file:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-java-aspects/1.4.23/allure-java-aspects-1.4.23.jar!/META-INF/aop-ajc.xml
+abort trouble in: 
+org.codehaus.groovy.runtime.ArrayUtil -- (OutOfMemoryError) Java heap space
+Java heap space
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.HashMap.createEntry(HashMap.java:869)
+	at java.util.HashMap.addEntry(HashMap.java:856)
+	at java.util.HashMap.put(HashMap.java:484)
+	at java.util.HashSet.add(HashSet.java:217)
+	at org.aspectj.apache.bcel.generic.InstructionHandle.addTargeter(InstructionHandle.java:161)
+	at org.aspectj.apache.bcel.generic.MethodGen.<init>(MethodGen.java:300)
+	at org.aspectj.weaver.bcel.LazyMethodGen.initialize(LazyMethodGen.java:366)
+	at org.aspectj.weaver.bcel.LazyMethodGen.markAsChanged(LazyMethodGen.java:534)
+	at org.aspectj.weaver.bcel.LazyMethodGen.getBody(LazyMethodGen.java:924)
+	at org.aspectj.weaver.bcel.BcelShadow.makeShadowForMethod(BcelShadow.java:679)
+	at org.aspectj.weaver.bcel.BcelShadow.makeMethodExecution(BcelShadow.java:675)
+	at org.aspectj.weaver.bcel.BcelShadow.makeMethodExecution(BcelShadow.java:655)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.match(BcelClassWeaver.java:2664)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.weave(BcelClassWeaver.java:480)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.weave(BcelClassWeaver.java:100)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1689)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveWithoutDump(BcelWeaver.java:1633)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveAndNotify(BcelWeaver.java:1398)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1184)
+	at org.aspectj.weaver.tools.WeavingAdaptor.getWovenBytes(WeavingAdaptor.java:527)
+	at org.aspectj.weaver.tools.WeavingAdaptor.weaveClass(WeavingAdaptor.java:363)
+	at org.aspectj.weaver.loadtime.Aj.preProcess(Aj.java:121)
+	at org.aspectj.weaver.loadtime.ClassPreProcessorAgentAdapter.transform(ClassPreProcessorAgentAdapter.java:54)
+	at sun.instrument.TransformerManager.transform(TransformerManager.java:188)
+	at sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:424)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+

@@ -1,0 +1,58 @@
+{
+  "testCases" : [ {
+    "uid" : "d315917c93eb726e",
+    "name" : "testDiv1",
+    "title" : "Test div 1",
+    "time" : {
+      "start" : 1468400011044,
+      "stop" : 1468400031465,
+      "duration" : 20421
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "18989975f8fd19ca",
+    "name" : "testDiv2",
+    "title" : "Test div 2",
+    "time" : {
+      "start" : 1468400031473,
+      "stop" : 1468400031678,
+      "duration" : 205
+    },
+    "severity" : "NORMAL",
+    "status" : "FAILED"
+  }, {
+    "uid" : "bdaacdb82bb4e343",
+    "name" : "testDiv3",
+    "title" : "Test div 3",
+    "time" : {
+      "start" : 1468400031678,
+      "stop" : 1468400031837,
+      "duration" : 159
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "50cc6b485dc8aefe",
+    "name" : "testDiv4",
+    "title" : "Test div 4",
+    "time" : {
+      "start" : 1468400031839,
+      "stop" : 1468400031999,
+      "duration" : 160
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "fe6408fc22dcb0de",
+    "name" : "testDiv5",
+    "title" : "Test div 5",
+    "time" : {
+      "start" : 1468400032001,
+      "stop" : 1468400032158,
+      "duration" : 157
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}
