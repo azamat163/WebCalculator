@@ -1,0 +1,111 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.8.4 built on Thursday Nov 6, 2014 at 20:19:21 GMT
+---- Dump Properties ---
+Dump file: ajcore.20160714.012058.825.txt
+Dump reason: abort
+Dump on exception: true
+Dump at exit condition: abort
+---- System Properties ---
+java.runtime.name=Java(TM) SE Runtime Environment
+sun.boot.library.path=C:\Program Files\Java\jdk1.7.0_80\jre\bin
+java.vm.version=24.80-b11
+java.vm.vendor=Oracle Corporation
+java.vendor.url=http://java.oracle.com/
+path.separator=;
+idea.launcher.port=7532
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+file.encoding.pkg=sun.io
+user.country=RU
+user.script=
+sun.java.launcher=SUN_STANDARD
+sun.os.patch.level=Service Pack 1
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=C:\WebCalculator
+java.runtime.version=1.7.0_80-b15
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs=C:\Program Files\Java\jdk1.7.0_80\jre\lib\endorsed
+os.arch=amd64
+java.io.tmpdir=C:\Users\azamat\AppData\Local\Temp\
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+user.variant=
+os.name=Windows 7
+sun.jnu.encoding=Cp1251
+java.library.path=C:\Program Files\Java\jdk1.7.0_80\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;.
+java.specification.name=Java Platform API Specification
+java.class.version=51.0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+os.version=6.1
+user.home=C:\Users\azamat
+user.timezone=GMT+04:00
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+file.encoding=UTF-8
+idea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.1.3\bin
+java.specification.version=1.7
+java.class.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.1.3\lib\idea_rt.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.1.3\plugins\junit\lib\junit-rt.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\jfxrt.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\rt.jar;C:\WebCalculator\target\test-classes;C:\Users\azamat\.m2\repository\com\jayway\restassured\rest-assured\2.1.0\rest-assured-2.1.0.jar;C:\Users\azamat\.m2\repository\org\codehaus\groovy\groovy\2.2.0\groovy-2.2.0.jar;C:\Users\azamat\.m2\repository\org\ow2\asm\asm-tree\4.1\asm-tree-4.1.jar;C:\Users\azamat\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar;C:\Users\azamat\.m2\repository\org\ow2\asm\asm-util\4.1\asm-util-4.1.jar;C:\Users\azamat\.m2\repository\org\ow2\asm\asm-commons\4.1\asm-commons-4.1.jar;C:\Users\azamat\.m2\repository\org\ow2\asm\asm\4.1\asm-4.1.jar;C:\Users\azamat\.m2\repository\org\ow2\asm\asm-analysis\4.1\asm-analysis-4.1.jar;C:\Users\azamat\.m2\repository\org\codehaus\groovy\groovy-xml\2.2.0\groovy-xml-2.2.0.jar;C:\Users\azamat\.m2\repository\org\apache\httpcomponents\httpclient\4.2.6\httpclient-4.2.6.jar;C:\Users\azamat\.m2\repository\org\apache\httpcomponents\httpcore\4.2.5\httpcore-4.2.5.jar;C:\Users\azamat\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;C:\Users\azamat\.m2\repository\commons-codec\commons-codec\1.6\commons-codec-1.6.jar;C:\Users\azamat\.m2\repository\org\apache\httpcomponents\httpmime\4.2.6\httpmime-4.2.6.jar;C:\Users\azamat\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\azamat\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\azamat\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\azamat\.m2\repository\com\jayway\restassured\json-path\2.1.0\json-path-2.1.0.jar;C:\Users\azamat\.m2\repository\org\codehaus\groovy\groovy-json\2.2.0\groovy-json-2.2.0.jar;C:\Users\azamat\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.3.0\jackson-databind-2.3.0.jar;C:\Users\azamat\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.3.0\jackson-annotations-2.3.0.jar;C:\Users\azamat\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.3.0\jackson-core-2.3.0.jar;C:\Users\azamat\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.8.5\jackson-core-asl-1.8.5.jar;C:\Users\azamat\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.8.5\jackson-mapper-asl-1.8.5.jar;C:\Users\azamat\.m2\repository\com\google\code\gson\gson\1.7.2\gson-1.7.2.jar;C:\Users\azamat\.m2\repository\com\googlecode\json-simple\json-simple\1.1\json-simple-1.1.jar;C:\Users\azamat\.m2\repository\com\jayway\restassured\rest-assured-common\2.1.0\rest-assured-common-2.1.0.jar;C:\Users\azamat\.m2\repository\com\jayway\restassured\xml-path\2.1.0\xml-path-2.1.0.jar;C:\Users\azamat\.m2\repository\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar;C:\Users\azamat\.m2\repository\org\json\json\20160212\json-20160212.jar;C:\Users\azamat\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\azamat\.m2\repository\ru\yandex\qatools\allure\allure-junit-adaptor\1.4.23\allure-junit-adaptor-1.4.23.jar;C:\Users\azamat\.m2\repository\ru\yandex\qatools\allure\allure-java-aspects\1.4.23\allure-java-aspects-1.4.23.jar;C:\Users\azamat\.m2\repository\ru\yandex\qatools\allure\allure-java-adaptor-api\1.4.23\allure-java-adaptor-api-1.4.23.jar;C:\Users\azamat\.m2\repository\ru\yandex\qatools\allure\allure-java-annotations\1.4.23\allure-java-annotations-1.4.23.jar;C:\Users\azamat\.m2\repository\ru\yandex\qatools\allure\allure-model\1.4.23\allure-model-1.4.23.jar;C:\Users\azamat\.m2\repository\org\jvnet\jaxb2_commons\jaxb2-basics-runtime\0.9.3\jaxb2-basics-runtime-0.9.3.jar;C:\Users\azamat\.m2\repository\ru\yandex\qatools\properties\properties-loader\1.5\properties-loader-1.5.jar;C:\Users\azamat\.m2\repository\commons-beanutils\commons-beanutils-core\1.8.3\commons-beanutils-core-1.8.3.jar;C:\Users\azamat\.m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;C:\Users\azamat\.m2\repository\org\apache\tika\tika-core\1.7\tika-core-1.7.jar;C:\Users\azamat\.m2\repository\org\aspectj\aspectjrt\1.8.3\aspectjrt-1.8.3.jar;C:\Users\azamat\.m2\repository/org/aspectj/aspectjweaver/1.8.4/aspectjweaver-1.8.4.jar
+user.name=azamat
+java.vm.specification.version=1.7
+sun.java.command=com.intellij.rt.execution.application.AppMain com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 ru.kaspersky.WebCalculatorTest
+java.home=C:\Program Files\Java\jdk1.7.0_80\jre
+sun.arch.data.model=64
+user.language=ru
+java.specification.vendor=Oracle Corporation
+awt.toolkit=sun.awt.windows.WToolkit
+java.vm.info=mixed mode
+java.version=1.7.0_80
+java.ext.dirs=C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+sun.boot.class.path=C:\Program Files\Java\jdk1.7.0_80\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_80\jre\classes
+idea.junit.sm_runner=
+java.vendor=Oracle Corporation
+file.separator=\
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+sun.io.unicode.encoding=UnicodeLittle
+sun.cpu.endian=little
+sun.desktop=windows
+sun.cpu.isalist=amd64
+---- Command Line ---
+Empty
+---- Full Classpath ---
+Empty
+---- Compiler Messages ---
+info AspectJ Weaver Version 1.8.4 built on Thursday Nov 6, 2014 at 20:19:21 GMT
+info register classloader sun.misc.Launcher$AppClassLoader@346df9bc
+info using configuration file:/C:/Users/azamat/.m2/repository/ru/yandex/qatools/allure/allure-java-aspects/1.4.23/allure-java-aspects-1.4.23.jar!/META-INF/aop-ajc.xml
+abort trouble in: 
+org.codehaus.groovy.runtime.ArrayUtil -- (OutOfMemoryError) GC overhead limit exceeded
+GC overhead limit exceeded
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at java.util.HashMap.createEntry(HashMap.java:897)
+	at java.util.HashMap.addEntry(HashMap.java:884)
+	at java.util.HashMap.put(HashMap.java:505)
+	at java.util.HashSet.add(HashSet.java:217)
+	at org.aspectj.apache.bcel.generic.InstructionHandle.addTargeter(InstructionHandle.java:161)
+	at org.aspectj.apache.bcel.generic.MethodGen.<init>(MethodGen.java:300)
+	at org.aspectj.weaver.bcel.LazyMethodGen.initialize(LazyMethodGen.java:366)
+	at org.aspectj.weaver.bcel.LazyMethodGen.markAsChanged(LazyMethodGen.java:534)
+	at org.aspectj.weaver.bcel.LazyMethodGen.getBody(LazyMethodGen.java:924)
+	at org.aspectj.weaver.bcel.BcelShadow.makeShadowForMethod(BcelShadow.java:679)
+	at org.aspectj.weaver.bcel.BcelShadow.makeMethodExecution(BcelShadow.java:675)
+	at org.aspectj.weaver.bcel.BcelShadow.makeMethodExecution(BcelShadow.java:655)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.match(BcelClassWeaver.java:2664)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.weave(BcelClassWeaver.java:480)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.weave(BcelClassWeaver.java:100)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1689)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveWithoutDump(BcelWeaver.java:1633)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveAndNotify(BcelWeaver.java:1398)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1184)
+	at org.aspectj.weaver.tools.WeavingAdaptor.getWovenBytes(WeavingAdaptor.java:527)
+	at org.aspectj.weaver.tools.WeavingAdaptor.weaveClass(WeavingAdaptor.java:363)
+	at org.aspectj.weaver.loadtime.Aj.preProcess(Aj.java:121)
+	at org.aspectj.weaver.loadtime.ClassPreProcessorAgentAdapter.transform(ClassPreProcessorAgentAdapter.java:54)
+	at sun.instrument.TransformerManager.transform(TransformerManager.java:188)
+	at sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:424)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:800)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+

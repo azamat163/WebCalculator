@@ -149,7 +149,7 @@ public class WebCalculatorTest {
                 .then()
                 .statusCode(200)
                 .body("html.head.title", equalTo("Web Calculator"),
-                        "html.body", equalTo("0"));
+                        "html.body", equalTo("-5"));
 
 
     }
@@ -186,11 +186,156 @@ public class WebCalculatorTest {
                 .statusCode(200)
                 .body("html.head.title", equalTo("Web Calculator"),
                         "html.body", equalTo("50"));
-
-
-        
-
-
     }
 
+
+    @Step("Сложение. Случай, когда сложение происходит в виде 5+0")
+    @Test
+    public void testAdd1() throws Throwable{
+        RestAssured.defaultParser = Parser.HTML;
+        given()
+                .pathParam("a", "5")
+                .pathParam("b", "0")
+                .when()
+                .get("http://his-pytest.westeurope.cloudapp.azure.com:8080/add/{a}/{b}")
+                .then()
+                .statusCode(200)
+                .body("html.head.title", equalTo("Web Calculator"),
+                        "html.body", equalTo("5"));
+    }
+
+    @Step("Сложение. Случай, когда сложение происходит в виде 5 +(-1)")
+    @Test
+    public void testAdd2() throws Throwable{
+        RestAssured.defaultParser = Parser.HTML;
+        given()
+                .pathParam("a", "5")
+                .pathParam("b", "-1")
+         .when()
+                .get("http://his-pytest.westeurope.cloudapp.azure.com:8080/add/{a}/{b}")
+                .then()
+                .statusCode(200)
+                .body("html.head.title", equalTo("Web Calculator"),
+                        "html.body", equalTo("4"));
+    }
+
+    @Step("Сложение. Случай, когда сложение происходит в виде 0+0")
+    @Test
+    public void testAdd3() throws Throwable{
+        RestAssured.defaultParser = Parser.HTML;
+        given()
+                .pathParam("a", "0")
+                .pathParam("b", "0")
+                .when()
+                .get("http://his-pytest.westeurope.cloudapp.azure.com:8080/add/{a}/{b}")
+                .then()
+                .statusCode(200)
+                .body("html.head.title", equalTo("Web Calculator"),
+                        "html.body", equalTo("0"));
+    }
+
+    @Step("Сложение. Случай, когда сложение происходит в виде 10+5")
+    @Test
+    public void testAdd4() throws Throwable{
+        RestAssured.defaultParser = Parser.HTML;
+        given()
+                .pathParam("a", "10")
+                .pathParam("b", "5")
+                .when()
+                .get("http://his-pytest.westeurope.cloudapp.azure.com:8080/add/{a}/{b}")
+                .then()
+                .statusCode(200)
+                .body("html.head.title", equalTo("Web Calculator"),
+                        "html.body", equalTo("15"));
+    }
+
+    @Step("Сложение. Случай, когда сложение происходит в виде 0 + (-0)")
+    @Test
+    public void testAdd5() throws Throwable{
+        RestAssured.defaultParser = Parser.HTML;
+        given()
+                .pathParam("a", "0")
+                .pathParam("b", "-0")
+                .when()
+                .get("http://his-pytest.westeurope.cloudapp.azure.com:8080/add/{a}/{b}")
+                .then()
+                .statusCode(200)
+                .body("html.head.title", equalTo("Web Calculator"),
+                        "html.body", equalTo("0"));
+    }
+
+    @Step("Вычитание. Случай, когда вычитание происходит в виде 5 - 0")
+    @Test
+    public void testSub1() throws Throwable{
+        RestAssured.defaultParser = Parser.HTML;
+        given()
+                .pathParam("a", "5")
+                .pathParam("b", "0")
+                .when()
+                .get("http://his-pytest.westeurope.cloudapp.azure.com:8080/sub/{a}/{b}")
+                .then()
+                .statusCode(200)
+                .body("html.head.title", equalTo("Web Calculator"),
+                        "html.body", equalTo("5"));
+    }
+
+    @Step("Вычитание. Случай, когда вычитание происходит в виде 5 - (-1)")
+    @Test
+    public void testSub2() throws Throwable{
+        RestAssured.defaultParser = Parser.HTML;
+        given()
+                .pathParam("a", "5")
+                .pathParam("b", "-1")
+                .when()
+                .get("http://his-pytest.westeurope.cloudapp.azure.com:8080/sub/{a}/{b}")
+                .then()
+                .statusCode(200)
+                .body("html.head.title", equalTo("Web Calculator"),
+                        "html.body", equalTo("6"));
+    }
+
+    @Step("Вычитание. Случай, когда вычитание происходит в виде -5 - 1")
+    @Test
+    public void testSub3() throws Throwable{
+        RestAssured.defaultParser = Parser.HTML;
+        given()
+                .pathParam("a", "-5")
+                .pathParam("b", "-1")
+                .when()
+                .get("http://his-pytest.westeurope.cloudapp.azure.com:8080/sub/{a}/{b}")
+                .then()
+                .statusCode(200)
+                .body("html.head.title", equalTo("Web Calculator"),
+                        "html.body", equalTo("-4"));
+    }
+
+    @Step("Вычитание. Случай, когда вычитание происходит в виде 0 - 5")
+    @Test
+    public void testSub4() throws Throwable{
+        RestAssured.defaultParser = Parser.HTML;
+        given()
+                .pathParam("a", "0")
+                .pathParam("b", "-5")
+                .when()
+                .get("http://his-pytest.westeurope.cloudapp.azure.com:8080/sub/{a}/{b}")
+                .then()
+                .statusCode(200)
+                .body("html.head.title", equalTo("Web Calculator"),
+                        "html.body", equalTo("5"));
+    }
+
+    @Step("Вычитание. Случай, когда вычитание происходит в виде 5 - 10")
+    @Test
+    public void testSub5() throws Throwable{
+        RestAssured.defaultParser = Parser.HTML;
+        given()
+                .pathParam("a", "5")
+                .pathParam("b", "-10")
+                .when()
+                .get("http://his-pytest.westeurope.cloudapp.azure.com:8080/sub/{a}/{b}")
+                .then()
+                .statusCode(200)
+                .body("html.head.title", equalTo("Web Calculator"),
+                        "html.body", equalTo("15"));
+    }
 }
